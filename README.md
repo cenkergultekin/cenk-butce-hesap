@@ -150,4 +150,6 @@ npm start
 
 ## Lisans
 
-MIT License - Kişisel ve ticari kullanım için ücretsiz. 
+MIT License - Kişisel ve ticari kullanım için ücretsiz.
+
+Projeye canlıda erişim sağlamak için: https://cenk-butce-hesap.vercel.app linkine tıklayabilirsiniz. 
