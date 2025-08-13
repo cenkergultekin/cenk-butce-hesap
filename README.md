@@ -1,6 +1,8 @@
 # Cenker Bütçe Hesaplama
 
-Apple-inspired premium gider takip uygulaması. Modern glassmorphism tasarım, interaktif grafikler ve gerçek zamanlı Firebase veritabanı entegrasyonu.
+Apple-inspired premium gider takip uygulaması. Modern glassmorphism tasarım, interaktif grafikler ve gerçek zamanlı Firebase veritabanı entegrasyonu. 
+
+Projeyi geliştirme amacım: firebase entegrasyonunu öğrenmek, vibe coding ile yayına ilk projemi almak ve süreç takibidir. Proje sonucunda veri tabanı konfigrasyonlarının nasıl yapıldığı, env dosyası ve gitignore dosyaları hakkında bilgiler edindim.
 
 ## Özellikler
 
@@ -151,5 +153,3 @@ npm start
 ## Lisans
 
 MIT License - Kişisel ve ticari kullanım için ücretsiz.
-
-Projeye canlıda erişim sağlamak için: https://cenk-butce-hesap.vercel.app linkine tıklayabilirsiniz. 
